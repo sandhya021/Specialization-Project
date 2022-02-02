@@ -10,8 +10,6 @@
 
 - install the nodemodules , bootsrtap & react , reacter-router-dom .
 
-- add shopping  file to spring tool suite 
-
 - create a database named bank in mysql workbench 
 
 - `npm install` 
